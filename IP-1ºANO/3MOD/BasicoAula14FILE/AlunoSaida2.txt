@@ -1,0 +1,30 @@
+Aluno:            Guilherme
+Nota 1:              89.00
+Nota 2:              64.00
+Media :              76.50
+Desvio Padrao :      17.68
+Variancia :         312.50
+
+Aluno:               Miguel
+Nota 1:              70.00
+Nota 2:              81.00
+Media :              75.50
+Desvio Padrao :       7.78
+Variancia :          60.50
+
+Aluno:                 Joao
+Nota 1:              87.00
+Nota 2:              98.00
+Media :              92.50
+Desvio Padrao :       7.78
+Variancia :          60.50
+
+Aluno:              Mediano
+Nota 1:              54.00
+Nota 2:              12.00
+Media :              33.00
+Desvio Padrao :      29.70
+Variancia :         882.00
+
+ATENÇÃO
+Desvio Padrão e variancia foram calculados considerando valores de amostra. 

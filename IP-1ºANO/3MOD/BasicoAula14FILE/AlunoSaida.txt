@@ -1,0 +1,20 @@
+Aluno:  Guilherme
+Nota 1:      89.00
+Nota 2:      64.00
+Media :      76.50
+
+Aluno:     Miguel
+Nota 1:      70.00
+Nota 2:      81.00
+Media :      75.50
+
+Aluno:       Joao
+Nota 1:      87.00
+Nota 2:      98.00
+Media :      92.50
+
+Aluno:    Mediano
+Nota 1:      54.00
+Nota 2:      12.00
+Media :      33.00
+
