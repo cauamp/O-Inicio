@@ -1,0 +1,21 @@
+                                RANKING
+
+							 Jogador: JOAO
+							 Vitórias: 3
+							 Tentativas: 3
+
+							 Jogador: PEDRO
+							 Vitórias: 2
+							 Tentativas: 3
+
+							 Jogador: LEO
+							 Vitórias: 1
+							 Tentativas: 1
+
+							 Jogador: MARIO
+							 Vitórias: 1
+							 Tentativas: 3
+
+							 Jogador: MIGUEL
+							 Vitórias: 1
+							 Tentativas: 3
